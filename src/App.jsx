@@ -6,7 +6,7 @@ function App() {
     <div>
 
       {/* NavBar  */}
-      <nav className='bg-red-600 text-white flex p-4 justify-between border-t-4 border-blue-600'>
+      <nav className='bg-red-600 text-white flex p-4 justify-between border-t-4 border-blue-800'>
         <div className='flex' >
           <div className='flex space-x-5 items-center'>
             <span className='text-xl  font-semibold' >Kalvium</span>
